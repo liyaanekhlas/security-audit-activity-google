@@ -11,4 +11,14 @@ To complete the activity, I reviewed the scope, goals, and risk assessment repor
 
 Based on the findings, recommendations were made to improve the organization's overall security posture.
 
-## Findings
+## Key Findings
+- The organization had weak access control measures like the principle of least privilege was not implemented which increases the risk of unauthorised access to sensitive information.
+- Encryption controls were not implemented which pose a risk to the confidentiality of private customer data
+- I identified missing intrusion detection systems (IDS).
+- Password management systems and password policies were not enforced.
+- Disaster recovery plans were absent and the company did not have backups of critical data increasing the risk of permanent data loss during security incidents.
+- Firewall protection and antivirus software were installed.
+- The company had good physical controls like CCTV surveillance systems, physical locks and fire detection and prevention systems.
+- A breach notification process for GDPR compliance existed.
+
+## Recommendations 
